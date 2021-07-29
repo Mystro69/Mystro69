@@ -2,7 +2,7 @@
 
 ### Mystro
 
-<a href="https://discord.gg/ySAqAeRfQH" rel="nofollow"><img src="https://img.shields.io/discord/753295161529729075?label=Discord&style=for-the-badge"  style="max-width:100%;"></a>
+<a href="https://discord.gg/a51" rel="nofollow"><img src="https://img.shields.io/discord/806927365543690270?label=Discord&style=for-the-badge"  style="max-width:100%;"></a>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Mystro69&amp;show_icons=true&amp;count_private=true)
 
@@ -11,7 +11,7 @@
 
 [<img align="left" alt="Mystro#1450 | Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
 
-[discord]: https://discord.gg/ySAqAeRfQH
+[discord]: https://discord.gg/a51
 
 <br>
 

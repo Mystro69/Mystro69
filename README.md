@@ -7,15 +7,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Mystro69&amp;show_icons=true&amp;count_private=true)
 
 
-### Connect with me
-
-[<img align="left" alt="Mystro#1450 | Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
-
-[discord]: https://discord.gg/a51
-
-<br>
-
-
 ### Languages
 
 <img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />

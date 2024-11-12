@@ -4,7 +4,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,lua,py,mongodb,mysql,visualstudio,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,lua,py,mongodb,mysql,visualstudio,vscode)](https://skillicons.dev)
 
 ###
 

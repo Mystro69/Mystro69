@@ -1,1 +1,1 @@
-![Mystro69's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mystro69&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple)
+![Mystro69's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mystro69&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple) ![](https://komarev.com/ghpvc/?username=Mystro69)

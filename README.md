@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3>Language and tools</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">📥 You can contact me here!</h3>
+<h3>📥 You can contact me here!</h3>
 
 ###
 
@@ -21,4 +21,9 @@
 </div>
 
 ###
-![Mystro69's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mystro69&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple) ![](https://komarev.com/ghpvc/?username=Mystro69)
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Mystro69&show_icons=true&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mystro69&show_icons=true&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
+</details>
